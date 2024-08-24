@@ -16,5 +16,8 @@ After lots of EDA and model building, I selected Random Forest as it had the bes
 - by adding some more advance features using fuzzy logic and length ratios.
 
   
+![image](https://github.com/user-attachments/assets/4d4a8de2-5051-40bc-96c7-fc43f2dd1147)
+![image](https://github.com/user-attachments/assets/361c062d-8aba-460a-81ab-ec1bb190315d)
+
 
 
